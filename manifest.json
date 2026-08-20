@@ -1,0 +1,21 @@
+{
+  "short_name": "NODE",
+  "name": "N.O.D.E. Tactical App",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/0a0a0c/00ffcc?text=NODE",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://via.placeholder.com/512/0a0a0c/00ffcc?text=NODE",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "display": "standalone",
+  "orientation": "portrait"
+}
